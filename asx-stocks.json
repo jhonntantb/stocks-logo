@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "symbol": "14D",
+      "name": "1414 Degrees Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1AD",
+      "name": "Adalta Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1AE",
+      "name": "Aurora Energy Metals Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1AG",
+      "name": "Alterra Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1AI",
+      "name": "Algorae Pharmaceuticals Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1CG",
+      "name": "1CLICKLIFE FPO",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1MC",
+      "name": "Morella Corporation Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1ST",
+      "name": "1st Group Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1TT",
+      "name": "Thrive Tribe Technologies Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "1VG",
+      "name": "Victory Goldfields Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "29M",
+      "name": "29Metals Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "360",
+      "name": "Life360 Inc",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "3DA",
+      "name": "Amaero International Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "3DP",
+      "name": "Pointerra Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "3PL",
+      "name": "3P Learning Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "4DS",
+      "name": "4DS Memory Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "4DX",
+      "name": "4DMedical Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "5EA",
+      "name": "5E Advanced Materials Inc.",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "5GG",
+      "name": "Pentanet Limited",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    },
+    {
+      "symbol": "88E",
+      "name": "88 Energy Ltd",
+      "currency": "AUD",
+      "exchange": "ASX",
+      "mic_code": "XASX",
+      "country": "Australia",
+      "type": "Common Stock"
+    }
+  ],
+  "count": 2200,
+  "status": "ok"
+}
